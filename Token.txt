@@ -1,0 +1,3 @@
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=737e140c73b201bf5bbd&state=1635f165-dc9e-4b90-ac73-056614dafa61
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=a9b2c825bc1ef4a2b824&state=884b9eb8-81a1-4e6f-930c-0036bbfe368b
+2021005@expotechindustries.com
